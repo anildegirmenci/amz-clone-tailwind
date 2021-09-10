@@ -2,12 +2,6 @@
 
 ![](https://anildegirmenci.com/img/ad-logo.png)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 #About Project
 Based on Firebase. Clone with JavaScript.
 
