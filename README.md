@@ -1,2 +1,18 @@
-# amz-clone-tailwind
-Amazone Clone with Vanilla JS, Tailwind CSS, HTML
+# Amazone Clone with Vanilla JS, Tailwind CSS, HTML
+
+![](https://anildegirmenci.com/img/ad-logo.png)
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+#About Project
+Based on Firebase. Clone with JavaScript.
+
+#About Me
+[My Personal Website](https://anildegirmenci.com)
+
+
+##End
